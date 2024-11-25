@@ -6,3 +6,4 @@ The Word Search Solver is a tool that efficiently finds and highlights user-spec
 -Searches words in all directions (horizontal, vertical, diagonal).
 -Highlights words dynamically with unique colors.
 -User-friendly interface built with HTML, CSS, and JavaScript.
+![Alt text](images/example.png)
