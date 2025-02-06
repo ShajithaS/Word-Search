@@ -1,5 +1,8 @@
 # Word-Search
 ## Overview
+
+LINK : ![https://shajithas.github.io/Word-Search/]
+
 The Word Search Solver is a tool that efficiently finds and highlights user-specified words in a grid using array data structure and interactive GUI.
 
 ## Features
